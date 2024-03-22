@@ -40,7 +40,7 @@ Buck轉換器的基本工作原理包括利用電感、電容、開關（通常�
 
 ## *元件數值設計*
 
-![設計規格](/graph/Buck/specifications.png)
+![設計規格](/graph/Buck/specifications.png){: w="360" h="700" .center}
 
 ### 前置運算
 
@@ -63,35 +63,35 @@ $$ESR = \frac{\Delta V_o}{\Delta I_L} = \frac{600m}{2.664} = 225m\Omega \tag{8}$
 
 ### 閉迴路式降壓轉換器
 
-![降壓轉換器模擬電路圖](/graph/Buck/Converter.png)
+![降壓轉換器模擬電路圖](/graph/Buck/Converter.png){: w="360" h="700" .center}
 
 #### 輸出電壓
 
-![Output Voltage](/graph/Buck/PIC1.png)
+![Output Voltage](/graph/Buck/PIC1.png){: w="360" h="700" .center}
 
 ---
 
 ## *Schematic*
 
-![設計的電路圖](/graph/Buck/schematic.png)
+![設計的電路圖](/graph/Buck/schematic.png){: w="360" h="700" .center}
 
 ---
 
 ## *BOM List*
 
-![材料清單](/graph/Buck/Bom.png)
+![材料清單](/graph/Buck/Bom.png){: w="360" h="700" .center}
 
 ---
 
 ## PCB Layout
 
-![電路佈線&鋪銅](/graph/Buck/PCB_Layout.png)}
+![電路佈線&鋪銅](/graph/Buck/PCB_Layout.png)}{: w="360" h="700" .center}
 
 ---
 
 ## *焊接電路*
 
-![焊接完之電路成品](/graph/Buck/Circuit1.jpg)
+![焊接完之電路成品](/graph/Buck/Circuit1.jpg){: w="360" h="700" .center}
 
 ---
 
@@ -99,15 +99,15 @@ $$ESR = \frac{\Delta V_o}{\Delta I_L} = \frac{600m}{2.664} = 225m\Omega \tag{8}$
 
 ### 電源供應器
 
-![Power Supply](/graph/Buck/Power.jpg)
+![Power Supply](/graph/Buck/Power.jpg){: w="360" h="700" .center}
 
 ### 電路接線
 
-![電路](/graph/Buck/Circuit.jpg)
+![電路](/graph/Buck/Circuit.jpg){: w="360" h="700" .center}
 
 ### 電子負載機
 
-![電子負載機](/graph/Buck/Load.jpg)
+![電子負載機](/graph/Buck/Load.jpg){: w="360" h="700" .center}
 
 ### 效率分析
 
@@ -120,19 +120,19 @@ $$\eta = \frac{V_o}{V_i} = 0.89 = 89\% \tag{3}$$
 ## 波形
 
 1. 空載
-   ![抽載0A](/graph/Buck/0A.PNG)
+   ![抽載0A](/graph/Buck/0A.PNG){: w="360" h="700" .center}
 2. 負載1A
-   ![抽載1A](/graph/Buck/1A.PNG)
+   ![抽載1A](/graph/Buck/1A.PNG){: w="360" h="700" .center}
 3. 負載2A
-   ![抽載2A](/graph/Buck/2A.PNG)
+   ![抽載2A](/graph/Buck/2A.PNG){: w="360" h="700" .center}
 4. 負載3A
-   ![抽載3A](/graph/Buck/3A.PNG)
+   ![抽載3A](/graph/Buck/3A.PNG){: w="360" h="700" .center}
 5. 負載4A
-   ![抽載4A](/graph/Buck/4A.PNG)
+   ![抽載4A](/graph/Buck/4A.PNG){: w="360" h="700" .center}
 6. 負載5A
-   ![抽載5A](/graph/Buck/5A.PNG)
+   ![抽載5A](/graph/Buck/5A.PNG){: w="360" h="700" .center}
 7. 滿載(6A)
-   ![抽載6A](/graph/Buck/6A.PNG)
+   ![抽載6A](/graph/Buck/6A.PNG){: w="360" h="700" .center}
 
 ### 波形分析
 
