@@ -85,7 +85,7 @@ $$ESR = \frac{\Delta V_o}{\Delta I_L} = \frac{600m}{2.664} = 225m\Omega \tag{8}$
 
 ## PCB Layout
 
-![電路佈線&鋪銅](/graph/Buck/PCB_Layout.png)}{: w="360" h="700" .center}
+![電路佈線&鋪銅](/graph/Buck/PCB_Layout.png){: w="360" h="700" .center}
 
 ---
 
